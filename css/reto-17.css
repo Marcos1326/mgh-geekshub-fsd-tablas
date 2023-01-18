@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    background-image: url(../img/ac.jpg);
+}
+
+.fotos{
+    display: flex;
+    border: solid 1px black;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    justify-content: center;
+    align-items: ;
+}
+
+#u{
+    background-image: url(../img/back_mantel.jpg);
+    
+}
+
+#dos{
+
+}
+
+#tres{
+
+}
+
+#cuatre{
+
+}
+
+#cinc{
+
+}
+
+#sis{
+
+}
+
+#set{
+
+}
+
+#huit{
+
+}
+
+#nou{
+
+}
+
+#deu{
+
+}
+
+#once{
+
+}
+
+#dotse{
+
+}
