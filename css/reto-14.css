@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fondo{
+    background-image: url(../img/posters-paisaje-marino-australiano-al-amanecer-en-formato-cuadrado.jpg.jpg);
+    width: 700px;
+    height: 700px;
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#tabla{
+    background-color: white;
+}
+
+td{
+    width: 200px;
+    border: solid 1px black;
+}
+
+.amarillo{
+    background-color: rgb(255, 245, 106);
+}
