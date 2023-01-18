@@ -15,8 +15,10 @@ table{
 
 td{
     background-color: rgb(32, 197, 147) ;
+    width: 120px;
 }
 
 .mitad{
     background-color: rgb(26, 151, 114);
 }
+
