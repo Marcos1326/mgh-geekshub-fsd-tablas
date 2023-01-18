@@ -1,0 +1,28 @@
+table{
+    border: solid 1px black;
+    text-align: center;
+}
+td{
+    border: solid 1px black;
+    width: 300px;
+    height: 30px;
+}
+
+#uno{
+    background-color: lightgreen;
+}
+
+#dos{
+    background-color: rgb(121, 220, 238);
+    text-align: left;
+}
+
+.tres{
+    color: red;
+}
+
+#cuatro{
+    background-color: violet;
+    vertical-align: bottom;
+    text-align: right;
+}
