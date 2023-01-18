@@ -10,12 +10,11 @@ table{
 .titulo{
     background-color: rgb(0, 90, 63) ;
     color: rgb(32, 197, 147);
-    
 }
 
 td{
     background-color: rgb(32, 197, 147) ;
-    width: 120px;
+    width: 150px;
     border: solid 1px grey;
 }
 
